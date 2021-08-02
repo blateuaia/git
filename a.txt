@@ -1,2 +1,6 @@
-Teste 
+
 Entendendo o HEAD
+Seja Bem Vindo
+
+https://alunos.b7web.com.br/curso/html5-e-css3/a-base-geral-do-css
+https://alunos.b7web.com.br/curso/javascript/jsonparse
